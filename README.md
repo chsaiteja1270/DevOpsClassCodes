@@ -8,7 +8,7 @@ designed. Please note this example uses and requires Java 8 to work..  test test
 
 
 Running the example from the command line
--------------------
+------------------- Jenikins
 ```
 $ mvn jetty:run
 ```
@@ -32,7 +32,7 @@ To get the project up and running in IDEA, do:
 You should now have a Jetty server running on localhost:8080. Navigate to http://localhost:8080 to play with the application
 
 Importing in NetBeans 8
---------------------
+-------------------- Test for Jenikins
 These instructions were tested on NetBeans 8.0.2. You can get it from https://www.netbeans.org
 
 To checkout and run the project in NetBeans, do:
